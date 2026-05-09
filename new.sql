@@ -1,4 +1,4 @@
-CREATE OR REPLACE TABLE RAW_CUSTOMERS_ABC (
+CREATE OR REPLACE TABLE RAW_CUSTOMERS_test1 (
     raw_id              INT AUTOINCREMENT,
     customer_id         INT,
     first_name          VARCHAR(100),
